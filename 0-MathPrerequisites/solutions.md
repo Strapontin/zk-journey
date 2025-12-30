@@ -33,6 +33,8 @@ $$(A \cap B) \subset B = \{3\} \subset B = True$$
 $$A \{x \in \real : 0 < x \leq 3\}$$
 $$B \{x \in \real : 2 < x \leq 4\}$$
 
+_Note: We describe the set A as "a set of values $x$ which are the real solutions to equation $0 < x \leq 3$"_
+
 ### Q5 - Define $A \cap B$
 
 $$A \cap B = \{x \in \real : 2 \leq x \leq 3\}$$
@@ -41,7 +43,7 @@ $$A \cap B = \{x \in \real : 2 \leq x \leq 3\}$$
 
 $$A \cup B = \{x \in \real : 0 < x < 4\}$$
 
-### Q7 - Define $A \setminus B$ (the difference of A and B)
+### Q7 - Define $A \setminus B$ (the difference of A and B, which result should be the set of elements belonging to A, but not B)
 
 $$A \setminus B = \{x \in \real : 0 < x < 2\}$$
 

@@ -19,3 +19,11 @@ This section is optional but can be helpful. Having a strong math background is 
 
 - https://zkdl-camp.github.io/files/summary/lecture-notes.pdf
 - https://zkdl-camp.github.io/ (Lecture 1 to 5)
+
+
+
+
+
+
+
+Checkpoint: https://zkdl-camp.github.io/files/summary/lecture-notes.pdf page 11, 2. Notation
